@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 076a140a4d31b7b4b87698c7c894035f
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Press Start 2P
+  fontNames:
+  - Press Start 2P
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: e9e024772e71e88418fbf13dd2b8de27, type: 3}
+  - {fileID: 12800000, guid: 53be569948d13214199ff90eb711b10b, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
