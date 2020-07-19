@@ -1,5 +1,6 @@
 ### Intro
-![Kontrol](https://marcusboay.dev/static/media/kontrol.7e150448.png)
+![Kontrol](/kontrol3.png)
+
 **Kontrol** is a twin-stick shooter featuring 3 hand-crafted levels, enemies, bosses, music and weapons to obtain in order to defeat your enemies. Will you let the evil machines take over the universe or will you defeat them skillfully?
 
 The levels are made with gradually increasing difficulty and music to set the mood in different areas of the game.
