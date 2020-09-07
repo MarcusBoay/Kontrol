@@ -37,4 +37,4 @@ M1 - Shoot
 [Jessica D' Cunha](https://github.com/jrdcunha) - Audio Producer
 
 ### Note
-This isn't the development repository but rather an extract of it since the development reposity has assets that cannot be distributed in a public manner.
+This isn't the development repository but rather an extract of it since the development repository has assets that cannot be distributed in a public manner.
